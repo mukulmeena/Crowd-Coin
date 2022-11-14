@@ -2,5 +2,6 @@
 A web application based on web3 where people can raise funds for their projects
 
 
-#To run the application
-node server.js
+# To run the application 
+> npm install\ 
+> node server.js
