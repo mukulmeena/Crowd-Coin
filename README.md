@@ -1,7 +1,10 @@
 # Kickstart-App
-A web application based on web3 where people can raise funds for their projects
-
+<ul>
+<li>A web application based on web3 where people can raise funds for their projects</li>
+</ul>
 
 # To run the application 
-> npm install\ 
-> node server.js
+<ul>
+<li>npm install</li>
+<li>node server.js</li>
+</ul>
